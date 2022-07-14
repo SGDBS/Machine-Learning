@@ -1,2 +1,5 @@
 # Machine-Learning
-Code implemented during learning
+
+## Completed
+
+* SVD Collaborative filtering
